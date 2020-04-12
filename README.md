@@ -1,6 +1,6 @@
 # To-Do list
 
-Built as part of School of Code to practise testing and TDD/red-green refactoring
+Built as part of School of Code to practise testing and TDD/red-green refactoring (work in progress!)
 
 ### Requirements:
 
